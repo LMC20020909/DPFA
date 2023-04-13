@@ -1,0 +1,6 @@
+*.db
+SWOWEN-2018/output/
+SWOWEN-2018/data/
+SWOWEN-2018/figures/
+row_data/
+summary4.3.md
